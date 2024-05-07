@@ -1,6 +1,6 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name: MAHESH RAJ PUROHIT J</h3>
-<h3>Register Number: 212222240058</h3>
+<h3>Name: Koti Sai Sankar J</h3>
+<h3>Register Number: 212222240111</h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
